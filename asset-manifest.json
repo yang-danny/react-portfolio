@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48cf012e.css",
+    "main.js": "/static/js/main.7fe0a672.js",
+    "static/media/bannerImg.png": "/static/media/bannerImg.6e1254497344580d77ae.png",
+    "static/media/logo.png": "/static/media/logo.b9909c5c8fbd7bfdad8f.png",
+    "static/media/react-weather.png": "/static/media/react-weather.7a726e62e2b6f4bd2167.png",
+    "static/media/react-fitness.png": "/static/media/react-fitness.cc0c40c375fe827fff04.png",
+    "static/media/MazdaToDo.png": "/static/media/MazdaToDo.69eb5dff044b78f1c62f.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "index.html": "/index.html",
+    "main.48cf012e.css.map": "/static/css/main.48cf012e.css.map",
+    "main.7fe0a672.js.map": "/static/js/main.7fe0a672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48cf012e.css",
+    "static/js/main.7fe0a672.js"
+  ]
+}
