@@ -2,7 +2,8 @@ import React from 'react'
 import Title from '../layouts/Title'
 import { reactWeather,
     reactFitness,
-    MazdaToDo, } from "../../assets/index";
+    MazdaToDo, 
+  reactChat,} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -39,7 +40,13 @@ const Projects = () => {
           url='https://yang-danny.github.io/Mazda-ToDo/'
           github='https://github.com/yang-danny/Mazda-ToDo'
         />
-       
+         <ProjectsCard
+          title="React Chat App"
+          des="A very cool social media app developed by React, SCSS and Firebase with Hooks, Router, API and Local Storage."
+          src={reactChat}
+          url='https://yang-danny.github.io/react-chat'
+          github='https://github.com/yang-danny/react-chat'
+        />
       </div>
     </section>
   );
