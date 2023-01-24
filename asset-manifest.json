@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.48cf012e.css",
-    "main.js": "/react-portfolio/static/js/main.43c31c40.js",
+    "main.js": "/react-portfolio/static/js/main.752c527c.js",
     "static/media/bannerImg.png": "/react-portfolio/static/media/bannerImg.6e1254497344580d77ae.png",
     "static/media/logo.png": "/react-portfolio/static/media/logo.b9909c5c8fbd7bfdad8f.png",
     "static/media/react-weather.png": "/react-portfolio/static/media/react-weather.7a726e62e2b6f4bd2167.png",
     "static/media/react-fitness.png": "/react-portfolio/static/media/react-fitness.cc0c40c375fe827fff04.png",
     "static/media/MazdaToDo.png": "/react-portfolio/static/media/MazdaToDo.69eb5dff044b78f1c62f.png",
+    "static/media/React-Chat.png": "/react-portfolio/static/media/React-Chat.c924007a9458ee552d00.png",
     "static/media/contactImg.png": "/react-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "index.html": "/react-portfolio/index.html",
     "main.48cf012e.css.map": "/react-portfolio/static/css/main.48cf012e.css.map",
-    "main.43c31c40.js.map": "/react-portfolio/static/js/main.43c31c40.js.map"
+    "main.752c527c.js.map": "/react-portfolio/static/js/main.752c527c.js.map"
   },
   "entrypoints": [
     "static/css/main.48cf012e.css",
-    "static/js/main.43c31c40.js"
+    "static/js/main.752c527c.js"
   ]
 }
