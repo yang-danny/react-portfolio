@@ -3,7 +3,8 @@ import Title from '../layouts/Title'
 import { reactWeather,
     reactFitness,
     MazdaToDo, 
-  reactChat,} from "../../assets/index";
+  reactChat,
+  reactAiImage } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -19,9 +20,17 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+         <ProjectsCard
+          title="React AI Image"
+          des="Dive into the world of artificial intelligence(AI)! It is based on Full Stack MERN App with React, Node.js, MongoDB, Tailwind, OpenAI Dall-e, Cloudinary and Firebase.
+          "
+          src={reactAiImage}
+          url='https://react-ai-image.web.app/'
+          github='https://github.com/yang-danny/react-ai-image'
+        />
         <ProjectsCard
           title="React Weather App"
-          des="A Weather App developed by React(Hooks) based on MUI framework and OpenWeather API"
+          des="A Weather App developed by React(Hooks) based on MUI framework and OpenWeather API."
           src={reactWeather}
           url='https://yang-danny.github.io/react-weather/'
           github='https://github.com/yang-danny/react-weather'

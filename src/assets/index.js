@@ -5,6 +5,7 @@ import reactFitness from "./images/projects/react-fitness.png";
 import MazdaToDo from "./images/projects/MazdaToDo.png";
 import contactImg from "./images/contact/contactImg.png";
 import reactChat from "./images/projects/React-Chat.png";
+import reactAiImage from "./images/projects/react-ai-image.png";
 
 export {
   logo,
@@ -13,5 +14,6 @@ export {
   reactFitness,
   MazdaToDo,
   contactImg,
-  reactChat
+  reactChat,
+  reactAiImage
 };
